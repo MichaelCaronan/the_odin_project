@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+
+<form action = "#" method = "post">
+<textarea rows = "1" cols = "50"> Stuff </textarea>
+<textarea rows="5" cols="20">A big load of text</textarea>
+<input type = "text">
+<form>
